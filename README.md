@@ -1,10 +1,10 @@
-Project Blogs
+# Project Blogs
 -------------
 
 * [Python GUI Reminder App](https://sameer-j.github.io/python-gui-reminder-app/)
 * [Angular2-Flask Example Application](https://sameer-j.github.io/ng2-flask/)
 
-[Gists](https://gist.github.com/sameer-j)
+# [Gists](https://gist.github.com/sameer-j)
 ----------------------------------------
 
 * [BDS - Bidirectional Search Implementation in C++](https://gist.github.com/sameer-j/68663a3c757f6cda2b3f)
